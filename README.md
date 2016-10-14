@@ -2,4 +2,4 @@
 Repository to learn. First repository.
 Student in computing programming.
 First experience with GitHub.
-*Ceci est une éditionhjdlfklj de fichier readme*
+*Ceci est une éditionhjdlfklj glauque de fichier readme*
